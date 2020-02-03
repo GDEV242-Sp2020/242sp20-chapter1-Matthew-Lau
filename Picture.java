@@ -47,10 +47,10 @@ public class Picture
             window.changeSize(40);
             window.makeVisible();
     
-            roof.changeSize(60, 180);
-            roof.moveHorizontal(20);
-            roof.moveVertical(-60);
-            roof.makeVisible();
+            // roof.changeSize(60, 180);
+            // roof.moveHorizontal(20);
+            // roof.moveVertical(-60);
+            // roof.makeVisible();
     
             sun.changeColor("yellow");
             sun.moveHorizontal(100);
